@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cat-41",
+    "series": "溪桥",
+    "former_records": [
+      "view-41"
+    ],
+    "pieces": [
+      "paper-12",
+      "press-1934-5"
+    ],
+    "status": "published_combined"
+  },
+  {
+    "id": "paper-12",
+    "carrier": "original_impression",
+    "marks": [
+      "river watermark",
+      "reverse A3"
+    ],
+    "accession": "X-512"
+  },
+  {
+    "id": "press-1934-5",
+    "carrier": "newspaper_reproduction",
+    "issue": "night-weekly-14",
+    "page": 5
+  },
+  {
+    "id": "cat-42",
+    "series": "溪桥",
+    "pieces": [
+      "paper-64"
+    ],
+    "status": "published"
+  }
+]

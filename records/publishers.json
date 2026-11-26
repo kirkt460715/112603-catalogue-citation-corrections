@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cite-q0",
+    "serial": "scenes-24",
+    "channel": "printed",
+    "stage": "published",
+    "target": "cat-41",
+    "catalogue_revision": 1,
+    "page": null
+  },
+  {
+    "id": "cite-q1",
+    "serial": "northern-15",
+    "channel": "web",
+    "stage": "proof",
+    "target": "cat-41",
+    "catalogue_revision": 1,
+    "page": 5
+  },
+  {
+    "id": "cite-q2",
+    "serial": "scenes-31",
+    "stage": "draft",
+    "target": "cat-41",
+    "catalogue_revision": 1,
+    "accession": "X-512"
+  },
+  {
+    "id": "reply-q9",
+    "kind": "correction_reply",
+    "serial": "northern-15",
+    "citation": "cite-q1",
+    "reference_edition": 2,
+    "received_day": 10,
+    "decision": "received_for_review"
+  }
+]

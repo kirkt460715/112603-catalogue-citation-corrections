@@ -1,0 +1,51 @@
+[
+  {
+    "id": "e-11",
+    "objects": [
+      "paper-12"
+    ],
+    "supports": [
+      "reverse mark"
+    ],
+    "sharing": "citation_only",
+    "location": "约石馆，描印登记 8 页",
+    "held_by": "archives-a"
+  },
+  {
+    "id": "e-12",
+    "objects": [
+      "press-1934-5"
+    ],
+    "supports": [
+      "issue page"
+    ],
+    "sharing": "summary",
+    "held_by": "archives-b"
+  },
+  {
+    "id": "e-14",
+    "objects": [
+      "paper-12",
+      "press-1934-5"
+    ],
+    "supports": [
+      "same print matrix"
+    ],
+    "sharing": "staff",
+    "held_by": "archives-c"
+  },
+  {
+    "id": "ar-15",
+    "kind": "scope_change",
+    "evidence": "e-14",
+    "disputed": "same print matrix",
+    "effective_day": 8
+  },
+  {
+    "id": "ar-16",
+    "kind": "reader_note",
+    "source": "e-12",
+    "reference": "cite-q0",
+    "page_missing": true
+  }
+]
